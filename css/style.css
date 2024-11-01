@@ -1,0 +1,47 @@
+#wpml_select_options
+{
+	padding:15px 0px 5px 0px;
+}
+
+#wpml_select_option input
+{
+	margin-right:4px;
+}
+label
+{
+	padding-right:20px;
+}
+
+#wpml_error_msgs
+{
+	padding:8px;
+	border-radius: 5px 5px 5px 5px;
+	border:1px solid #b7026d;
+	color:#b7026d;
+	background-color: #fbeff9;
+}
+
+#wpml_success_msgs
+{
+	padding:8px;
+	border-radius: 5px 5px 5px 5px;
+	border:1px solid #14960a;
+	color:#14960a;
+	background-color: #ccefca;
+}
+
+#wpml_edits_info
+{
+	padding: 3px 8px;
+	border-radius: 5px 5px 5px 5px;
+	border: 1px dotted #00004d;
+	color: #00004d;
+	background-color: #d9d9fd;
+	margin-top: 20px;
+	width: 780px;
+}
+#wpml_error_msgs, #wpml_success_msgs
+{
+	display:none;
+	width:500px;
+}
